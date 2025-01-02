@@ -1,0 +1,15 @@
+
+Here’s a plan for creating your Student Counter website with the described functionality using React.js and Tailwind CSS:
+
+Project Structure
+Components:
+
+Header: Displays the name of the app and counters.
+StudentForm: Form to add new students.
+StudentList: Displays the list of students with actions (check, call, delete).
+AbsentList: Displays the list of absent students.
+State Management:
+
+Use useState for local state:
+students: List of students with their details.
+totalCount, presentCount, absentCount: Counter values.
