@@ -1,8 +1,6 @@
-// import React, { useState } from "react";
+
 
 import { useState } from "react";
-
-
 const StudentForm = ({ onAddStudent }) => {
   const [name, setName] = useState("");
   const [number, setNumber] = useState("");

@@ -1,6 +1,4 @@
 
-// import React from "react";
-// import { FaPhoneAlt, FaTrashAlt } from "react-icons/fa";
 
 import { FaPhoneAlt, FaTrashAlt } from "react-icons/fa";
 
